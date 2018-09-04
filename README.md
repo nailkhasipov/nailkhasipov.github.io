@@ -1,1 +1,0 @@
-# nailkhasipov.github.io
