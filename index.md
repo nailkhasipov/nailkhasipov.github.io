@@ -1,8 +1,12 @@
 # Nail Khasipov
 
-Hello, i'm Nail. I'm **software engineer** and **digital entrepreneur** with a lot of passion on **JavaScript** and **Flutter**.
+Hey friends, i'm Nail. I'm **software engineer**, **tech lead** and **digital entrepreneur** with a lot of experience on app design and go-to-market strategy.
 
-My GitHub profile: [https://github.com/nailkhasipov](https://github.com/nailkhasipov)
+Links:
+
+- mailto: [nail.khasipov@gmail.com](nail.khasipov@gmail.com)
+- GitHub: [https://github.com/nailkhasipov](https://github.com/nailkhasipov)
+- LinkedIn: [https://www.linkedin.com/in/nailkhasipov/](https://www.linkedin.com/in/nailkhasipov/)
 
 Here some of my latest projects:
 
